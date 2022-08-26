@@ -28,7 +28,7 @@ dd
 
 ## Versión Desktop 🛰️
 
-https://user-images.githubusercontent.com/92159714/186893709-ca9c2b0d-d3d5-44e9-b451-872ef1dedb6b.mp4
+https://user-images.githubusercontent.com/92159714/186897429-0acaec41-a153-4001-ac98-9091d7929cb8.mp4
 
 ### <img src="http://37.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
 
