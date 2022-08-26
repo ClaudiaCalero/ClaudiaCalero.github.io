@@ -5,13 +5,21 @@
 
 ### Feautres: 💥🚀
 Add new task [x]
+
 Mark task as completed / uncompleted [x]
+
 Edit single task [x]
+
 Delete single task [x]
+
 Delete all tasks [x]
+
 See All tasks [x]
+
 See only Pending tasks [x]
+
 See only Completed taks [x]
+
 "You don't have any task here" span when the To-do list is empty or when there's nothing on a specific filter [x]
 
 ### Working on: 🛠️
