@@ -31,14 +31,14 @@ CSS
 JavaScript
 
 ## Mockup 🛸
-dd
+
 ![MockUp](https://user-images.githubusercontent.com/92159714/186890880-31a24cb3-393d-46cc-8857-74bf8b4836e3.png)
 
 ## Versión Desktop 🛰️
 
 https://user-images.githubusercontent.com/92159714/186897429-0acaec41-a153-4001-ac98-9091d7929cb8.mp4
 
-### <img src="http://37.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="40"> Check the repositories section to see my efforts! Hope, you will enjoy it!
+### <img src="http://37.media.tumblr.com/44d4fb34d7d9a0407c8fd5520e2c3123/tumblr_nago0vkGOD1tbhv9ro1_500.gif" width="40"> Hope, you will enjoy it! 
 
 🌻✒️Clàudia Calero Duró 
 
