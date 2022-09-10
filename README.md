@@ -44,4 +44,4 @@ https://user-images.githubusercontent.com/92159714/186897429-0acaec41-a153-4001-
 
 👀👀👀 github: https://github.com/ClaudiaCalero
 
-🛸📍Linkedin: https://www.linkedin.com/in/claudia-calero/Ñ
+🛸📍Linkedin: https://www.linkedin.com/in/claudia-calero/
